@@ -29,7 +29,7 @@ namespace DataStructureDay16_17
                 if (value == 0 && i != 1)
                     Console.WriteLine("{0}",i);
             }
-            
+            Console.ReadLine();
         }
     }
 }
